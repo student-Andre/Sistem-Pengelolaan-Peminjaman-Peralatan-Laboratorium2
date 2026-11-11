@@ -1,0 +1,16 @@
+[11-11-2026 21:10:33] Tambah alat Router MikroTik (A001) stok 10
+[11-11-2026 21:10:33] Tambah alat Switch Managed 24-Port (A002) stok 5
+[11-11-2026 21:10:33] Tambah alat ESP32 NodeMCU (A003) stok 15
+[11-11-2026 21:10:33] Tambah alat Arduino Uno Rev3 (A004) stok 20
+[11-11-2026 21:10:33] Tambah alat PC Server Workstation (A005) stok 4
+[11-11-2026 21:10:33] Tambah alat Webcam HD 1080p (A006) stok 8
+[11-11-2026 21:10:33] Tambah alat Proyektor HDMI (A007) stok 3
+[11-11-2026 21:10:33] Tambah alat VR Headset (A008) stok 2
+[11-11-2026 21:10:33] Tambah mahasiswa Ahmad Fauzi (M001)
+[11-11-2026 21:10:33] Tambah mahasiswa Siti Rahma (M002)
+[11-11-2026 21:10:33] Tambah mahasiswa Budi Santoso (M003)
+[11-11-2026 21:10:33] Tambah mahasiswa Dewi Lestari (M004)
+[11-11-2026 21:10:33] Transaksi TRX001 dibuat oleh Ahmad Fauzi (Durasi: 7 hari)
+[11-11-2026 21:10:33] Transaksi TRX002 dibuat oleh Siti Rahma (Durasi: 7 hari)
+[11-11-2026 21:10:33] Transaksi TRX003 dibuat oleh Budi Santoso (Durasi: 7 hari)
+[11-11-2026 21:10:33] Sistem diinisialisasi dengan data dummy awal.

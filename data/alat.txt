@@ -1,0 +1,8 @@
+A001|Router MikroTik|K01|10|8
+A002|Switch Managed 24-Port|K01|5|5
+A003|ESP32 NodeMCU|K02|15|14
+A004|Arduino Uno Rev3|K02|20|17
+A005|PC Server Workstation|K03|4|4
+A006|Webcam HD 1080p|K03|8|6
+A007|Proyektor HDMI|K04|3|2
+A008|VR Headset|K04|2|2

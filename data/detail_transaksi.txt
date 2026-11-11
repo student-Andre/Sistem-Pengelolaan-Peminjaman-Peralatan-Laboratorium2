@@ -1,0 +1,5 @@
+TRX001|A001|2|dipinjam|-|-
+TRX001|A003|1|dipinjam|-|-
+TRX002|A004|3|dipinjam|-|-
+TRX003|A007|1|dipinjam|-|-
+TRX003|A006|2|dipinjam|-|-

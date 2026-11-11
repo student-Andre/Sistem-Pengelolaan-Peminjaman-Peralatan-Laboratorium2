@@ -1,0 +1,4 @@
+K01|Perangkat Jaringan
+K02|IoT dan Mikrokontroler
+K03|Komputer dan Aksesori
+K04|Multimedia dan Audio Visual
