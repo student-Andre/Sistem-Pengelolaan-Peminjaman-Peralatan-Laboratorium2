@@ -1,0 +1,99 @@
+# ==========================================
+# Python Bytecode & C Extensions
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# ==========================================
+# Virtual Environments & Packages
+# ==========================================
+# Folder venv / env umum
+[Ee]nv/
+[Vv]env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# Distribusi & Packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ==========================================
+# Testing & Coverage Tools
+# ==========================================
+# pytest
+.pytest_cache/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# ==========================================
+# Jupyter Notebooks & Data Science
+# ==========================================
+.ipynb_checkpoints
+# Lingkungan Jupyter lokal
+*.ipynb
+!notebooks/sample.ipynb # Kecuali jika ingin commit contoh tertentu
+
+# Dataset lokal / Database
+*.sqlite3
+*.db
+data/
+*.csv
+*.parquet
+
+# ==========================================
+# Environment & Configuration
+# ==========================================
+.env
+.env.local
+.env.*.local
+instance/
+.webassets-cache
+
+# ==========================================
+# IDEs & Editors (VS Code, PyCharm, dll)
+# ==========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ==========================================
+# Operating System Junk Files
+# ==========================================
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+Thumbs.db
+Desktop.ini

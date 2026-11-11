@@ -1,0 +1,1 @@
+from controllers.sistem_laboratorium import SistemLaboratorium
